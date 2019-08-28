@@ -13,7 +13,7 @@ int main() {
   s.push('a');
   s.push('b');
   s.push('c');
-  // stack is LIFO, thus the content of s is currently like this:
+  // stack is LIFO, thus the content of s is currently like this:(Last In First Out, while queue is FIFO)
   // c <- top
   // b
   // a
